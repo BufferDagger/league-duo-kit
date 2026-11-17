@@ -1,0 +1,9 @@
+{
+  "product": "League Duo Kit",
+  "version": "3.6.9",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "global",
+  "auto_update": true,
+  "telemetry": false
+}
